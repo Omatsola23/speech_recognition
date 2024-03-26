@@ -1,3 +1,3 @@
 streamlit
-PyAudio
+PyAudio==0.2.14
 SpeechRecognition==3.10.1
