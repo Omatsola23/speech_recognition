@@ -1,6 +1,3 @@
 streamlit
 PyAudio
-SpeechRecogniton
-
-
-
+SpeechRecognition==3.10.1
